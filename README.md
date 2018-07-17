@@ -14,6 +14,7 @@
    - s3
    - etc ..
 - rekognition
+- Product Advertising API
 
 
 ## 結論
